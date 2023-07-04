@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "muleone",
+  "namespace": "",
+  "sfdcLoginUrl": "https://selfemployeds-c-dev-ed.develop.my.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
